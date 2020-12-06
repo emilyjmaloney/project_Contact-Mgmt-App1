@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
 import { Context } from "../store/appContext";
+import { ContactCard } from "../component/ContactCard.js";
+import { Modal } from "../component/Modal.js";
 
 import "../../styles/demo.scss";
 
